@@ -3,12 +3,15 @@ main:
   - title: "Bio & Photo"
     url: /bio/ 
 
-  - title: "Join the Lab!"
+  - title: "Join the Team!"
     url: /jointhelab/ 
 
   - title: "Publications"
     url: /publications/    
     
+  - title: "Datasets"
+    url: /datasets/ 
+  
   - title: "Teaching"
     url: /teaching/
     
