@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Globel environmental change & Inequality
+Global environmental change & Inequality
 ======
 As a human-environment geographer, I study global environmental change and inequality by combining remote sensing, large social surveys, and statistical modeling. My research focuses on the social, climatic, and political drivers that generate inequality in multiple forms and how inequality in turn affects our environment. This research topic is grounded through two main areas of study. First land grabs that are redefining land control globally and where I study their influence on local land inequality, agricultural production, and well-being. Second, I use remote sensing to generate flood exposure maps globally that are subsequently combined with socio-demographic data to investigate inequities in exposure and recovery.
 
