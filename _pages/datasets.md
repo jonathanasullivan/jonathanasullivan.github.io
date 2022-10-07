@@ -17,5 +17,6 @@ The Global Flood Database (GFD) combines over 15 years of flood data to create t
 &nbsp;
 
 <img align="left" width="200" height="200" src="../images/data_icon_kilimokikubwa.png">
+
 ### Kilimo Kikubwa (*Big Ag* in Swahili)
 A training dataset for deep learning segmentation of large-scale vs small-scale agriculture. Coming soon (hopefully 2023!)
