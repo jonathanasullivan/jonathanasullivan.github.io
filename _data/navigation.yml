@@ -2,7 +2,7 @@
 main:
 
   - title: "Join the Team!"
-    url: /jointhelab/ 
+    url: /jointheteam/ 
 
   - title: "Publications"
     url: /publications/    
