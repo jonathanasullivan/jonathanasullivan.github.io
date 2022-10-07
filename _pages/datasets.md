@@ -7,6 +7,6 @@ author_profile: true
 
 # Public Datasets
 
-<img align="right" width="100" height="100" src=![](../images/data_icons_gfd.png)>
+<img align="right" width="100" height="100" src=../images/data_icons_gfd.png>
 
-At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu Reeves' presentation of the role-playing game (RPG) Cyberpunk 2077, loudly claiming, “"You're breathtaking,"” which was directed at the actor-cum-presenter. The image macro used to build the "You're Breathtaking" meme generally features a still of Keanu Reeves pointing at someone in the audience in front of him - that someone is Peter Sark, though there are no images from Keanu's point of view that have since been used as part of the "You're Breathtaking" meme.
+The Global Flood Database (GFD) combines over 15 years of flood data to create the first comprehensive satellite-based resource for global flood risk management and mitigation. With funding from Google Earth Outreach and collaboration with flood mapping experts at Cloud to Street and the DFO Flood Observatory, we combined 15+ years of flood data with human settlement data to create a comprehensive database for researchers, humanitarian workers, and community organizations. You can view or access the data via the [GFD website](https://global-flood-database.cloudtostreet.ai/) or through the [Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/GLOBAL_FLOOD_DB_MODIS_EVENTS_V1) catalog. For detail on the dataset, methods and findings see our [Nature paper](https://doi.org/10.1038/s41586-021-03695-w).
