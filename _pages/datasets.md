@@ -20,3 +20,24 @@ The Global Flood Database (GFD) combines over 15 years of flood data to create t
 
 ### Kilimo Kikubwa (*Big Ag* in Swahili)
 A training dataset for deep learning segmentation of large-scale vs small-scale agriculture. Coming soon (hopefully 2023!)
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+# Sullivan Lab Datasets
+Our research team has developed a variety of different data products related to agriculture and flooding using satellite imagery and household surveys. We are very interested in collaborating with others to use these datasets to answer different questions related to sustainable food systems and sustainable development more broadly. If you are interested in collaborating and using any of these datasets for your research, please send me an email (jasullivan@arizona.edu) with a short description of your research project.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+### Household Surveys - Large-Scale Land Acquisitions (LSLAs)
+Description coming soon.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+### Property Boundaries - Large-Scale Land Acquisitions (LSLAs) in Tanzania
+Description coming soon.
