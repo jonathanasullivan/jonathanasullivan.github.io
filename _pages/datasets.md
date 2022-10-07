@@ -7,7 +7,7 @@ author_profile: true
 
 # Public Datasets
 
-<img align="right" width="150" height="150" src=../images/data_icons_gfd.png>
+<img align="right" width="200" height="200" src=../images/data_icons_gfd.png>
 
 
 ### Global Flood Database
