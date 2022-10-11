@@ -9,7 +9,7 @@ I am always looking to work with new people from undergraduates to graduate stud
 
 For specific opportunities coming up in the next year, see below. 
 
-### PhD :rotating_light:
+### PhD (Seeking PhD for Fall '23)
 
 I am recruiting candidates for a fully-funded PhD study in human-environment geography to begin in Fall 2023. Candidates interested in quantitative and qualitative research on the relationships between agriculture, climate, land tenure, food systems and food security - particularly with a focus in low- and middle-income countries are esepecially welcome to apply. A Bachelor's or Master's degree or significant coursework in natural or environmental social sciences is preferable, but not required, as is relevant research and/or professional experience.
 
