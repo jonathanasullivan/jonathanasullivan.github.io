@@ -10,10 +10,14 @@ I am looking for motivated students (from undergraduates to graduate students) w
 For specific opportunities coming up in the next year, see below. 
 
 ### PhD
-I am recruiting candidates for a fully-funded PhD study in human-environment geography to begin in Fall 2023If you are interested in applying to start Fall '23, please send me an email with your research interests and a CV.
+:rotating_light: :rotating_light: :rotating_light:
+
+I am recruiting candidates for a fully-funded PhD study in human-environment geography to begin in Fall 2023. Candidates interested in quantitative and qualitative research on the relationships between agriculture, climate, land tenure, food systems and food security - particularly with a focus in low- and middle-income countries are esepecially welcome to apply. A Bachelor's or Master's degree or significant coursework in natural or environmental social sciences is preferable, but not required, as is relevant research and/or professional experience.
+
+:rotating_light: :rotating_light: :rotating_light:
 
 ### Postdoc 
 I currently do not have any opportunities for postdocs at this time.
 
 
-### Living in Tucson
+### :sun_with_face: :cactus: Living in Tucson :cactus: :sun_with_face:
