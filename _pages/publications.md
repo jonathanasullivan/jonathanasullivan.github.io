@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Google Scholar page <a href='https://scholar.google.ch/citations?user=5aU5eEAAAAAJ&hl=en' target="_blank">here</a>
+Google Scholar page <a href='https://scholar.google.ch/citations?user=ZOKS7kkAAAAJ&hl=en&oi=ao' target="_blank">here</a>
 
 **2022**
 
