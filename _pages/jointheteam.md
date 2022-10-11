@@ -10,7 +10,7 @@ I am looking for motivated students (from undergraduates to graduate students) w
 For specific opportunities coming up in the next year, see below. 
 
 ### PhD
-If you are interested in applying to start Fall '23, please send me an email with your research interests and a CV.
+I am recruiting candidates for a fully-funded PhD study in human-environment geography to begin in Fall 2023If you are interested in applying to start Fall '23, please send me an email with your research interests and a CV.
 
 ### Postdoc 
 I currently do not have any opportunities for postdocs at this time.
