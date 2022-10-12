@@ -5,11 +5,14 @@ permalink: /jointheteam/
 author_profile: true
 ---
 
-![](../images/tucson sunset banner.jpg)
+![](../images/tucson sunset banner2.jpg)
 
 I am always looking to work with new people from undergraduates to graduate students who are interested in using a combination of remote sensing, household surveys, and statistical modeling to examine issues related to agriculture, flood risk and environmental change. I have current projects in Tanzania, Ethiopia, Zambia, and the United States, and I am open to students working in other regions. Please get in touch via my email address if you’re interested!
 
 For specific opportunities coming up in the next year, see below. 
+
+<br>
+<br>
 
 ### Seeking PhD for Fall '23
 
@@ -29,6 +32,9 @@ The funded Graduate Research Assistant (GRA) will work with me on themes of i) a
 - High proficiency in English (both written and verbal) and experience with scientific writing.
 
 For interested candidates, send me an email with your research interests and a CV. For details on the application, visit the Univesrity of Arizona's School of Geography, Develoment and Environment (SGDE) [website](https://geography.arizona.edu/maphd-program/apply) (deadline January 5th).
+
+<br>
+<br>
 
 ### Postdoc 
 I currently do not have any opportunities for postdocs at this time.
