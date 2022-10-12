@@ -25,15 +25,17 @@ A training dataset for deep learning segmentation of large-scale versus small-sc
 <br/>
 <br/>
 
-## Sullivan Lab Datasets
-Our research team has developed a variety of different data products related to agriculture and flooding using satellite imagery and household surveys. We are very interested in collaborating with others to use these datasets to answer different questions related to food systems, flood expsoure or recovery or sustainable development more broadly. If you are interested in collaborating and using any of these datasets for your research, please send me an email (jasullivan@arizona.edu) with a short description of your research project.
+## Lab Datasets
+Our research team has developed a variety of different data products related to agriculture and flooding using satellite imagery and household surveys. We are very interested in collaborating with others to use these datasets to answer different questions related to food systems, flood expsoure or recovery or sustainable development more broadly. If you are interested in collaborating and using any of these datasets for your research, please send me an email with a short description of your research project.
 
-
+<br/>
+<br/>
 
 ### Household Surveys - Large-Scale Land Acquisitions (LSLAs)
-Description coming soon.
+We have collected >3,000 household surveys surrounding a set of 12 large-scale land acquisitions (LSLAs; also referred to as land grabs) in Tanzania and Ethiopia. The survey includes "control" households for the purposes of comparison to household nearby LSLAs and provides a statistical basis to understand the causal effects of LSLAs. Surveys were collected in 2018 and respondsents were asked about a number of livelihood conditions including demographics, income, labor, land-use, health, fuel use and direct effects of LSLAs.  
 
-
+<br/>
+<br/>
 
 ### Property Boundaries - Large-Scale Land Acquisitions (LSLAs) in Tanzania
 Description coming soon.
