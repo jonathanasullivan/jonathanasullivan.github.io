@@ -11,11 +11,11 @@ For specific opportunities coming up in the next year, see below.
 
 ### Seeking PhD for Fall '23
 
-I am recruiting candidates for a fully-funded PhD study in human-environment geography to begin in Fall 2023. Candidates interested in quantitative and qualitative research on the relationships between agriculture, climate, land tenure, food systems and food security - particularly with a focus in low- and middle-income countries - are esepecially welcome to apply. A Bachelor's or Master's degree or significant coursework in natural or environmental social sciences is preferable, but not required, as is relevant research and/or professional experience.
+I am recruiting candidates for a fully-funded PhD study in human-environment geography to begin in Fall 2023. Candidates interested in quantitative and qualitative research on agriculture, land tenure, food systems, food security, and flood exposure/ recovery - particularly with a focus in low- and middle-income countries - are esepecially welcome to apply. A Bachelor's or Master's degree or significant coursework in natural or environmental social sciences is preferable, but not required, as is relevant research and/or professional experience.
 
-Two-years of funding are provided as a Graduate Research Assistant (GRA) with the remainder of funding provided in the form of Teaching Assistantships. Though, additional funding for a Graduate Research Assistant (GRA) may arise in the near future and I also emphasize helping my students to raise funding through internal and external opportunities so to fund your BIG ideas!
+Two-years of funding are provided as a Graduate Research Assistant (GRA) with the remainder of funding provided in the form of Teaching Assistantships. Though, additional funding for a Graduate Research Assistant (GRA) may arise in the near future and I also emphasize helping my students to raise funding through internal and external opportunities so to fund YOUR big ideas!
 
-The funded Graduate Research Assistant (GRA) will work with me on themes of i) agricultural change in the context of changing land tenure as a result of land grabs OR ii) the social and health impacts of flood exposure in the United States. All research themes emphasize the use of large spatio-temporal datasets, statistical modeling or machine learning, including the application of deep learning to satellite imagery. Not all expertise enlisted above can be met fully and therefore I seek candidates with experience in one or more of the following:
+The funded Graduate Research Assistant (GRA) will work with me on themes of i) agricultural change in the context of changing land tenure as a result of land grabs OR ii) the social and health impacts of flood exposure in the United States. All research themes emphasize the use of large spatio-temporal datasets and statistical modeling or machine learning, including the application of deep learning to satellite imagery. Not all expertise enlisted above can be met fully and therefore I seek candidates with experience in one or more of the following:
 
 - M.Sc. or 2+ years of professional experience in remote sensing analysis
 - Experience in working with spatial and/or temporal databases
@@ -26,10 +26,7 @@ The funded Graduate Research Assistant (GRA) will work with me on themes of i) a
 - Capacity to work and think independently, develop and implement own ideas, and persistence in completing tasks.
 - High proficiency in English (both written and verbal) and experience with scientific writing.
 
-For interested candidates, visit the Univesrity of Arizona's School of Geography, Develoment and Environment (SGDE) website to [apply](https://geography.arizona.edu/maphd-program/apply) and send me an email with your research interests and a CV.
+For interested candidates, send me an email with your research interests and a CV. For details on the application, visit the Univesrity of Arizona's School of Geography, Develoment and Environment (SGDE) [website] (https://geography.arizona.edu/maphd-program/apply) (deadline January 5th).
 
 ### Postdoc 
 I currently do not have any opportunities for postdocs at this time.
-
-
-### Living in Tucson :cactus::sun_with_face:
