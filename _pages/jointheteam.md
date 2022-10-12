@@ -7,14 +7,14 @@ author_profile: true
 
 ![](../images/tucson sunset banner2.jpg)
 
-I am always looking to work with new people from undergraduates to graduate students who are interested in using a combination of remote sensing, household surveys, and statistical modeling to examine issues related to agriculture, flood risk and environmental change. I have current projects in Tanzania, Ethiopia, Zambia, and the United States, and I am open to students working in other regions. Please get in touch via my email address if you’re interested!
+I am always looking to work with new people from undergraduates to graduate students who are interested in using a combination of remote sensing, household surveys, and statistical modeling to examine issues related to agriculture, flood risk and environmental change. I have current projects in Tanzania, Ethiopia, Zambia, and the United States, and I am open to students working in other regions. Please get in touch via email if you’re interested!
 
 For specific opportunities coming up in the next year, see below. 
 
 
 ### Seeking PhD for Fall '23
 
-I am recruiting candidates for a fully funded PhD study in human-environment geography to begin in Fall 2023. Candidates interested in quantitative and qualitative research on agriculture, land tenure, food systems, food security, or flood exposure/ recovery - particularly with a focus in low- and middle-income countries - are especially welcome to apply. A Bachelor’s or Master’s degree or significant coursework in natural or environmental social sciences is preferable, but not required, as is relevant research and/or professional experience.
+I am recruiting candidates for a fully funded PhD study in human-environment geography to begin in Fall 2023. Candidates interested in quantitative and qualitative research on topics of agriculture, land tenure, food systems, food security, or flood exposure/ recovery - particularly with a focus in low- and middle-income countries - are especially welcome to apply. A Bachelor’s or Master’s degree or significant coursework in natural or environmental social sciences is preferable, but not required, as is relevant research and/or professional experience.
 
 Two-years of funding are provided as a Graduate Research Assistant (GRA) with the remainder of funding provided in the form of Teaching Assistantships. Though, additional funding for a Graduate Research Assistant (GRA) may arise soon and I also emphasize helping my students to raise funding through internal and external opportunities so to fund YOUR big ideas!
 
@@ -29,7 +29,7 @@ The funded Graduate Research Assistant (GRA) will work with me on one of two the
 - Capacity to work and think independently, develop and implement own ideas, and persistence in completing tasks.
 - High proficiency in English (both written and verbal) and experience with scientific writing.
 
-For interested candidates, send me an email with your research interests and a CV. For details on the application, visit the Univesrity of Arizona's School of Geography, Develoment and Environment (SGDE) [website](https://geography.arizona.edu/maphd-program/apply) (deadline January 5th).
+For interested candidates, send me an email with your research interests and a CV. For details on the application, visit the School of Geography, Development and Environment (SGDE) [website](https://geography.arizona.edu/maphd-program/apply) (deadline January 5th).
 
 
 ### Postdoc 
