@@ -32,7 +32,7 @@ We have collected >3,000 household surveys surrounding a set of 12 large-scale l
 
 <br/>
 
-<img align="left" width="200" height="200" src="../images/data_icon_propertymaps.png">
+<img style="margin-right: 30px" align="left" width="200" height="200" src="../images/data_icon_propertymaps.png">
 
 ### Property Boundaries - Large-Scale Land Acquisitions (LSLAs) in Tanzania
 A set of ~100 Large-Scale Land Acquistions (LSLAs; also referred to as land grabs) were identifed in Tanzania through the land gazette which catalogues changes in land tenure from customary land to state land. Property maps for nearly all identified LSLAs were collected from the Ministry of Lands and digitized. This dataset enable land-use analysis within the boundaries of LSLAs in Tanzania occurring from 2000 and 2018 while also detailing the type of changes in land tenure. This dataset can also be aggregated at an administrative level with auxilliary data from social or agricultural census.  
