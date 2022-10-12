@@ -32,7 +32,7 @@ Our research team has developed a variety of different data products related to 
 <br/>
 
 ### Household Surveys - Large-Scale Land Acquisitions (LSLAs)
-We have collected >3,000 household surveys surrounding a set of 12 large-scale land acquisitions (LSLAs; also referred to as land grabs) in Tanzania and Ethiopia. The survey includes "control" households for the purposes of comparison to household nearby LSLAs and provides a statistical basis to understand the causal effects of LSLAs. Surveys were collected in 2018 and respondsents were asked about a number of livelihood conditions including demographics, income, labor, land-use, health, fuel use and direct effects of LSLAs.  
+We have collected >3,000 household surveys surrounding a set of 12 large-scale land acquisitions (LSLAs; also referred to as land grabs) in Tanzania and Ethiopia. The survey includes "control" households for the purposes of comparison to household nearby LSLAs and provides a statistical basis to understand the causal effects of LSLAs. Surveys were collected in 2018 and respondsents were asked about a number of livelihood conditions including demographics, income, labor, land-use, health, fuel use and direct effects of LSLAs. For an extract of our survey, see this [article](https://iopscience.iop.org/article/10.1088/1748-9326/ac8067).
 
 <br/>
 <br/>
