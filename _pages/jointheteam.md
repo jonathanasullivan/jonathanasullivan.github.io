@@ -11,8 +11,8 @@ I am always looking to work with new people from undergraduates to graduate stud
 
 For specific opportunities coming up in the next year, see below. 
 
-<br>
-<br>
+<br/>
+<br/>
 
 ### Seeking PhD for Fall '23
 
@@ -33,8 +33,8 @@ The funded Graduate Research Assistant (GRA) will work with me on themes of i) a
 
 For interested candidates, send me an email with your research interests and a CV. For details on the application, visit the Univesrity of Arizona's School of Geography, Develoment and Environment (SGDE) [website](https://geography.arizona.edu/maphd-program/apply) (deadline January 5th).
 
-<br>
-<br>
+<br/>
+<br/>
 
 ### Postdoc 
 I currently do not have any opportunities for postdocs at this time.
