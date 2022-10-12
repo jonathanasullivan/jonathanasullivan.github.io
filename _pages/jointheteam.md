@@ -5,7 +5,7 @@ permalink: /jointheteam/
 author_profile: true
 ---
 
-![](../images/tucson sunset banner2.jpg)
+![](../images/tucson sunset banner.jpg)
 
 I am always looking to work with new people from undergraduates to graduate students who are interested in using a combination of remote sensing, household surveys, and statistical modeling to examine issues related to agriculture, flood risk and environmental change. I have current projects in Tanzania, Ethiopia, Zambia, and the United States, and I am open to students working in other regions. Please get in touch via my email address if you’re interested!
 
