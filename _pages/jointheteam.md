@@ -29,8 +29,8 @@ The funded Graduate Research Assistant (GRA) will work with me on one of two the
 - Capacity to work and think independently, develop and implement own ideas, and persistence in completing tasks.
 - High proficiency in English (both written and verbal) and experience with scientific writing.
 
-For interested candidates, send me an email with your research interests and a CV. For details on the application, visit the School of Geography, Development and Environment (SGDE) [website](https://geography.arizona.edu/maphd-program/apply) (deadline January 5th).
+For interested candidates, send me an email with your CV, a writing sample you are proud of (doesn't have to be an article) and a paragraph on your research interest as a PhD student. For details on the application, visit the School of Geography, Development and Environment (SGDE) [website](https://geography.arizona.edu/maphd-program/apply) (deadline January 5th).
 
 
 ### Postdoc 
-I currently do not have any opportunities for postdocs at this time.
+I currently do not have any funded opportunities for postdocs at this time. However, I'm always eager to hear from exceptional scholars eager to join the lab as postdocs or scientists. I encourage potential postdocs to contact me to discuss internal and external funding opportunities including the [University of Arizona's President's Postdoctoral Fellowship](https://presidentspostdoc.arizona.edu/), [US Fulbright Programs (for EU citizens)](https://www.fulbrightschuman.eu/grants-eu-citizens/post-doctoral-research/), or [NSF's SBE Postdoctoral Fellowship](https://beta.nsf.gov/funding/opportunities/sbe-postdoctoral-research-fellowships-sprf).
