@@ -7,14 +7,14 @@ author_profile: true
 
 Google Scholar page <a href='https://scholar.google.ch/citations?user=ZOKS7kkAAAAJ&hl=en&oi=ao' target="_blank">here</a>
 
-**Submitted**
+##Submitted
 Aggarwal S, Hu JK, **Sullivan JA**, Parks RM, Nethery RC (In review). Severe flooding and cause-specific hospitalization in the United States [pre-print](https://arxiv.org/abs/2309.13142) 
 
 Friedrich HK, Tellman BT, **Sullivan JA**, Saunders A, Zuniga-Teran AA, Bakkensen LA, Cawley M, Dolk M, Emberson RA, Forrest SA, Gupta N, Gyawali N, Hall CA, Kettner AJ, Sanchez Lozano  JL, Bola GB (In review) Earth Observation to Monitor and Redress Inequitable Post-Flood Recovery.
 
 Sullivan JA, Friedrich HK, Tellman BT, Saunders A, Belury L (Submitted) Research Agenda for Challenging Flood Injustice.
 
-**2023**
+##2023
 Sullivan JA, Samii C, Brown DG, Moyo F, Agrawal A (2023). [Large-scale land acquisitions exacerbate local farmland inequalities in Tanzania](https://doi.org/10.1073/pnas.2207398120). Proceedings of the National Academy of Sciences 120, e2207398120.
 
 
