@@ -18,12 +18,12 @@ Sullivan JA, Friedrich HK, Tellman BT, Saunders A, Belury L (Submitted) Research
 Sullivan JA, Samii C, Brown DG, Moyo F, Agrawal A (2023). [Large-scale land acquisitions exacerbate local farmland inequalities in Tanzania](https://doi.org/10.1073/pnas.2207398120). Proceedings of the National Academy of Sciences 120, e2207398120.
 
 
-**2022**
+### 2022
 
 **Sullivan JA**, Brown DG, Moyo F, Jain M, Agrawal A (2022). [Impacts of large-scale land acquisitions on smallholder agriculture and livelihoods in Tanzania](https://doi.org/10.1088/1748-9326/ac8067), *Environmental Research Letters*
 
 
- **2021 (Paternity Leave)**
+ #### 2021 (Paternity Leave)
  
 Tellman B, **Sullivan JA**, Kuhn C, Kettner AJ, Doyle CS, Brakenridge GR, Erickson T A, Slayback DA (2021). [Satellite imaging reveals increased proportion of population exposed to floods](https://doi.org/https://doi.org/10.1038/s41586-021-03695-w), *Nature*
 
