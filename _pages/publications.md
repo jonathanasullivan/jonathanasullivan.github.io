@@ -7,14 +7,14 @@ author_profile: true
 
 Google Scholar page <a href='https://scholar.google.ch/citations?user=ZOKS7kkAAAAJ&hl=en&oi=ao' target="_blank">here</a>
 
-## Submitted
+### Submitted
 Aggarwal S, Hu JK, **Sullivan JA**, Parks RM, Nethery RC (In review). Severe flooding and cause-specific hospitalization in the United States [pre-print](https://arxiv.org/abs/2309.13142) 
 
 Friedrich HK, Tellman BT, **Sullivan JA**, Saunders A, Zuniga-Teran AA, Bakkensen LA, Cawley M, Dolk M, Emberson RA, Forrest SA, Gupta N, Gyawali N, Hall CA, Kettner AJ, Sanchez Lozano  JL, Bola GB (In review) Earth Observation to Monitor and Redress Inequitable Post-Flood Recovery.
 
 Sullivan JA, Friedrich HK, Tellman BT, Saunders A, Belury L (Submitted) Research Agenda for Challenging Flood Injustice.
 
-## 2023
+### 2023
 Sullivan JA, Samii C, Brown DG, Moyo F, Agrawal A (2023). [Large-scale land acquisitions exacerbate local farmland inequalities in Tanzania](https://doi.org/10.1073/pnas.2207398120). Proceedings of the National Academy of Sciences 120, e2207398120.
 
 
@@ -23,7 +23,7 @@ Sullivan JA, Samii C, Brown DG, Moyo F, Agrawal A (2023). [Large-scale land acqu
 **Sullivan JA**, Brown DG, Moyo F, Jain M, Agrawal A (2022). [Impacts of large-scale land acquisitions on smallholder agriculture and livelihoods in Tanzania](https://doi.org/10.1088/1748-9326/ac8067), *Environmental Research Letters*
 
 
- #### 2021 (Paternity Leave)
+ ### 2021 (Paternity Leave)
  
 Tellman B, **Sullivan JA**, Kuhn C, Kettner AJ, Doyle CS, Brakenridge GR, Erickson T A, Slayback DA (2021). [Satellite imaging reveals increased proportion of population exposed to floods](https://doi.org/https://doi.org/10.1038/s41586-021-03695-w), *Nature*
 
@@ -32,7 +32,7 @@ Williams TG, Trush SA, **Sullivan JA**, Liao C, Chesterman N, Agrawal A, Guikema
 Tellman B, **Sullivan JA**, Doyle CS (2021). [Global Flood Observation with Multiple Satellites: Applications in Rio Salado, Argentina and the Eastern Nile Basin](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/9781119427339.ch5). In Wu H, Lettenmaier DP, Tang Q, Ward PJ (Eds), Global Drought and Flood: Observation, Modeling, and Prediction. *American Geophysical Union*, 1st edition
 
 
-**2020**
+### 2020
  
 Liao C, Nolte K, **Sullivan JA**, Brown DG, Lay J, Althoff C, Agrawal A (2020). [Carbon emissions from the global land rush and their potential mitigation](https://doi.org/10.1038/s43016-020-00215-3), *Nature Food**
 
