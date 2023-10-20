@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Join the Team"
-permalink: /jointheteam/
+permalink: /opportunities/
 author_profile: true
 ---
 
