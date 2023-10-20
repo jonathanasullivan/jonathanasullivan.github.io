@@ -1,9 +1,6 @@
 # main links links
 main:
 
-  - title: "Join the Team!"
-    url: /jointheteam/ 
-
   - title: "Publications"
     url: /publications/    
     
@@ -13,5 +10,8 @@ main:
   - title: "Teaching"
     url: /teaching/
     
+  - title: "Opportunities"
+    url: /opportunities/ 
+
   - title: "CV"
     url: /cv/
