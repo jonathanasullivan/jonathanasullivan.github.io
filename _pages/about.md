@@ -16,8 +16,8 @@ You can download my CV [here](https://jonathanasullivan.github.io/files/jasulliv
 :rotating_light: **I am actively recruiting a PhD student for Fall '24. For interested, prospective students please see the [Opportunities](https://jonathanasullivan.github.io/opportunities/) page for full details** :rotating_light:
 
 ## News
-- Aug 2023: Paper on the unequal impacts of large-scale land acquisitions was accepted to PNAS. See a short write-up [here](https://sbs.arizona.edu/news/large-scale-land-acquisitions-exacerbate-local-farmland-inequities)
-- June 2023: Featured on a podcast about "How scientists are helping flooding communities". See recording [here](https://www.abc.net.au/listen/programs/scienceshow/how-scientists-are-helping-flooding-communities/102502174)
-- April 2023: I helped host the first Flood Justice Symposium at the Univesrity of Arizona. See the full recording of the event [here](https://www.youtube.com/watch?v=ZpwcF45ynjc)
-- Feb 2023: Collaboration with Dr. Tulbure's GAEC Lab at North Carolina State University on generating flood maps for communities. Part of an AGU Thriving Earth Exchange project. See more [here](https://thrivingearthexchange.org/project/reidsville-ga/) and [here](https://storymaps.arcgis.com/stories/0af8842aa6984ec8b2403f3c2e0a3337)
+- Aug 2023: Paper on the unequal impacts of large-scale land acquisitions was accepted to PNAS. See a short write-up [here](https://sbs.arizona.edu/news/large-scale-land-acquisitions-exacerbate-local-farmland-inequities).
+- June 2023: Featured on a podcast about "How scientists are helping flooding communities". See recording [here](https://www.abc.net.au/listen/programs/scienceshow/how-scientists-are-helping-flooding-communities/102502174).
+- April 2023: I helped host the first Flood Justice Symposium at the Univesrity of Arizona. See the full recording of the event [here](https://www.youtube.com/watch?v=ZpwcF45ynjc).
+- Feb 2023: Collaboration with Dr. Tulbure's GAEC Lab at North Carolina State University on generating flood maps for communities. Part of an AGU Thriving Earth Exchange project. Learn more [here](https://thrivingearthexchange.org/project/reidsville-ga/) and [here](https://storymaps.arcgis.com/stories/0af8842aa6984ec8b2403f3c2e0a3337).
 
