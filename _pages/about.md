@@ -13,7 +13,7 @@ As a human-environment geographer, I study global environmental change and inequ
 
 You can download my CV [here](https://jonathanasullivan.github.io/files/academic_cv_jasullivan.pdf).
 
-:rotating_light: **I am actively recruiting a PhD student for Fall '24. Please see the [Opportunities](https://jonathanasullivan.github.io/opportunities/) page for updates on available positions in the lab** :rotating_light:
+:rotating_light: **I am actively recruiting a PhD student for Fall '24. For interested, prospective students please see the [Opportunities](https://jonathanasullivan.github.io/opportunities/) page for full details** :rotating_light:
 
 ## News
 Aug 2023: Paper on the unequal impacts of large-scale land acquisitions was accepted to PNAS. See a short write-up [here](https://sbs.arizona.edu/news/large-scale-land-acquisitions-exacerbate-local-farmland-inequities)
