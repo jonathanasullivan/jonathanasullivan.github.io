@@ -16,7 +16,7 @@ The Global Flood Database (GFD) combines over 15 years of flood data to create t
 ### Kilimo Kikubwa (*Big Ag* in Swahili)
 <div style="text-align: justify">
 <img style="float: left; padding: 10px 10px 10px 10px;" src="../images/data_icon_kilimokikubwa.PNG" width=300>
-A training dataset for deep learning segmentation of large-scale versus small-scale agriculture. Coming soon (hopefully 2024!)
+A training dataset for deep learning segmentation of large-scale versus small-scale agriculture. The dataset covers 12 large-scale land acquisition (LSLA) sites in Ethipia (8) and Tanzania (4). We hand-labeled high-resolution imagery from NASA's CSDA program to create ~1200 chips (256*256) for smallholder agriculture, large-scale/ commercial agriculture, and non-agriculture. We sourced imagery from 2006-2016 and match each hand-label with Landsat growing-season and off-season imagery for that year. Dataset coming soon (hopefully 2024!)
 </div>
 
 ## Lab Datasets
