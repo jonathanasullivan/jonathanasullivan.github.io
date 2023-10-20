@@ -7,11 +7,11 @@ main:
   - title: "Datasets"
     url: /datasets/ 
 
-  - title: "Opportunities"
-    url: /opportunities/ 
-
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Opportunities"
+    url: /opportunities/ 
     
   - title: "CV"
     url: /cv/
