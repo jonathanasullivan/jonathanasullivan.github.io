@@ -26,7 +26,7 @@ Friedrich HK, Tellman BT, **Sullivan JA**, Saunders A, Zuniga-Teran AA, Bakkense
 Samii C, Wang Y, **Sullivan JA**, Aronow PM (2022). [Inference in Spatial Experiments with Interference using the SpatialEffect Package](https://arxiv.org/abs/2106.15081), *Journal of Agricultural, Biological and Environmental Statistics*
 
 ### 2021 (Paternity Leave)
-Liao C, Nolte K, **Sullivan JA**, Brown DG, Lay J, Althoff C, Agrawal A (2020). [Carbon emissions from the global land rush and their potential mitigation](https://doi.org/10.1038/s43016-020-00215-3), *Nature Food**
+Liao C, Nolte K, **Sullivan JA**, Brown DG, Lay J, Althoff C, Agrawal A (2020). [Carbon emissions from the global land rush and their potential mitigation](https://doi.org/10.1038/s43016-020-00215-3), *Nature Food*
 
 Tellman B, **Sullivan JA**, Kuhn C, Kettner AJ, Doyle CS, Brakenridge GR, Erickson T A, Slayback DA (2021). [Satellite imaging reveals increased proportion of population exposed to floods](https://doi.org/https://doi.org/10.1038/s41586-021-03695-w), *Nature*
 
