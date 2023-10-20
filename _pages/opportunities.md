@@ -12,9 +12,9 @@ I am always looking to work with new people from undergraduates to graduate stud
 For specific opportunities coming up in the next year, see below. 
 
 
-### Seeking PhD for Fall '23
+### Seeking PhD for Fall '24
 
-I am recruiting candidates for a fully funded PhD study in human-environment geography to begin in Fall 2023. Candidates interested in quantitative and qualitative research on topics of agriculture, land tenure, food systems, food security, or flood exposure/ recovery - particularly with a focus in low- and middle-income countries - are especially welcome to apply. A Bachelor’s or Master’s degree or significant coursework in natural or environmental social sciences is preferable, but not required, as is relevant research and/or professional experience.
+I am recruiting candidates for a fully funded PhD study in human-environment geography to begin in Fall 2024. Candidates interested in quantitative and qualitative research on topics of agriculture, land tenure, food systems, food security, or flood exposure/ recovery - particularly with a focus in low- and middle-income countries - are especially welcome to apply. Prior degrees or significant coursework in natural or environmental social sciences is preferable, but not required, as is relevant research and/or professional experience. To enter the School of Geography, Development and Environment's PhD program a Master's degree is required.
 
 Two-years of funding are provided as a Graduate Research Assistant (GRA) with the remainder of funding provided in the form of Teaching Assistantships. Though, additional funding for a Graduate Research Assistant (GRA) may arise soon and I also emphasize helping my students to raise funding through internal and external opportunities so to fund YOUR big ideas!
 
