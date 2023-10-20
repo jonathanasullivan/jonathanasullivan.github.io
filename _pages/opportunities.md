@@ -12,7 +12,7 @@ I am always looking to work with new people from undergraduates to graduate stud
 For specific opportunities coming up in the next year, see below. 
 
 
-## Seeking PhD Candidate for Fall '24
+:rotating_light: ## Seeking PhD Candidate for Fall '24 :rotating_light:
 I am recruiting candidates for a fully funded PhD study in human-environment geography to begin in Fall 2024. For a full description of the opportunity see this [link](https://drive.google.com/file/d/1rhElXer1becXgu3_VJyvnFy4jGtDdnDI/view?usp=sharing).
 
 The selected candidate will work as a Graduate Research Assistant (GRA) on developing a flood archive database for the United States from 2000 to present using satellite imagery and deep learning. Candidates interested in quantitative and qualitative research on topics of flood exposure/ recovery, agriculture, food security, or climate adaptation are especially welcome to apply. Prior degrees or significant coursework in remote sensing, programming, computer science, natural or environmental social sciences is preferable, but not required, as is relevant research and/or professional experience. To enter the School of Geography, Development and Environment's PhD program a Master's degree is required.
