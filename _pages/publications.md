@@ -39,6 +39,6 @@ Liao C, Nolte K, **Sullivan JA**, Brown DG, Lay J, Althoff C, Agrawal A (2020). 
 Hawker L, Neal J, Tellman B, Liang J, Schumann G, Doyle C, **Sullivan JA**, Savage J (2020). [Comparing earth observation and inundation models to map flood hazards](https://doi.org/10.1088/1748-9326/abc216), *Environmental Research Letters*
 
 
-**2019**
+### 2019
 
 Agrawal A, Brown DG, Sullivan JA (2019). [Are Global Land Grabs Ticking Socio-environmental Bombs or Just Inefficient Investments](https://doi.org/10.1016/j.oneear.2019.10.004), *One Earth*
