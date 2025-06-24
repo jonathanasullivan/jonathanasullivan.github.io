@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "J.A. Sullivan, PhD"
 title_separator          : "-"
 name                     : &name "Jonathan A. Sullivan, PhD"
-description              : &description "Assistant Professor, University of Arizona"
+description              : &description "Assistant Professor, University of Wisconsin - Madison"
 url                      : https://jonathanasullivan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jonathanasullivan/jonathanasullivan.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jonathan A. Sullivan"
   avatar           : "jasullivan 2016 cdmx.jpg"
-  bio              : "Assistant Professor, University of Arizona"
-  location         : "Tucson, AZ"
+  bio              : "Assistant Professor, University of Wisconsin - Madison"
+  location         : "Madison, WI"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZOKS7kkAAAAJ&hl=en"
-  email            : "jasullivan@arizona.edu"
+  email            : "jonathan.sullivan@wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Dapper_Mapper"
+  twitter          :
   vine             :
   weibo            :
   xing             :
