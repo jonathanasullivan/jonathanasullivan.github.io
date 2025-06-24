@@ -13,7 +13,7 @@ As a human-environment geographer, I study global environmental change and inequ
 
 You can download my CV [here](https://jonathanasullivan.github.io/files/jasullivan_cv_website_june2025.pdf).
 
-:rotating_light: **I am moving to the University of Wisconsin - Madison starting Fall '25. For, prospective students and post-docs, stay tuned for upcoming [opportunities](https://jonathanasullivan.github.io/opportunities/)** :rotating_light:
+:rotating_light: **I am moving to the University of Wisconsin - Madison starting Fall '25. For prospective students and post-docs, stay tuned for upcoming [opportunities](https://jonathanasullivan.github.io/opportunities/)** :rotating_light:
 
 ## News
 - Aug 2023: Paper on the unequal impacts of large-scale land acquisitions was accepted to PNAS. See a short write-up [here](https://sbs.arizona.edu/news/large-scale-land-acquisitions-exacerbate-local-farmland-inequities).
