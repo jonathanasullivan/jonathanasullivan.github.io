@@ -8,7 +8,7 @@ author_profile: true
 Google Scholar page <a href='https://scholar.google.ch/citations?user=ZOKS7kkAAAAJ&hl=en&oi=ao' target="_blank">here</a>
 
 ### 2025
-15\. Anderson T, Pons D, Taylor M, Xuruc A, Rodríguez Salvatierra H, Guido Z, **Sullivan JA**, Liverman D, Anchukaitis K (In press). Complexity and mediating factors in farmers' climate perceptions and agricultural adaptation strategies in the Guatemalan Dry Corridor. *Climatic Change*
+15\. Anderson, T. G., Pons, D., Taylor, M., Xuruc, A., Rodríguez Salvatierra, H. H., Guido, Z., Sullivan, J. A., Liverman, D., & Anchukaitis, K. J. (2025). [Complexity and mediating factors in farmers’ climate perceptions and agricultural adaptation strategies in the Guatemalan Dry Corridor](https://doi.org/10.1007/s10584-025-03978-5). Climatic Change, 178(7), 139. 
 
 14\. Aggarwal S, Hu JK, **Sullivan JA**, Parks RM, Nethery RC (In press). Severe flooding and cause-specific hospitalization in the United States. [arXiv preprint](https://arxiv.org/abs/2309.13142). *Lancet Planetary Health*
 
